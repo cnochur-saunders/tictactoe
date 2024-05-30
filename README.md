@@ -53,22 +53,12 @@ The Tic-Tac-Toe project served as an invaluable learning experience, allowing fo
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 Special thanks to the instructors of *The Complete Python Bootcamp From Zero to Hero in Python* and the supportive online community for their guidance and inspiration.
-
-## Contributing
-
-Contributions to the project are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## Version History
 
 - v1.0.0 (Initial Release): Basic gameplay functionality implemented.
 
 ---
-
-Thank you for exploring the Tic-Tac-Toe project. May your programming journey be filled with exciting challenges and rewarding achievements!
